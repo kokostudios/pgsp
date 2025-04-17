@@ -8,3 +8,5 @@ before you start editing though, you should:
 - delete the keep file in ```/datafiles```
 - credit [terrenebrick699](https://github.com/terrenebrick699)
 - and most importantly, dont recompile this without any changes like a total dick
+
+(anyways i hope i didnt forget anything while i was dropping the files)
