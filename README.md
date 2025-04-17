@@ -7,6 +7,6 @@ the source code for the now open-source game: potato game
 before you start editing though, you should: 
 - delete the keep file in ```/datafiles```
 - credit [terrenebrick699](https://github.com/terrenebrick699)
-- and most importantly, dont recompile this without any changes like a total dick
+- and most importantly, dont recompile this game without making any changes to the original code and claim the game as yours like a total dick
 
 (anyways i hope i didnt forget anything while i was dragging the files)
