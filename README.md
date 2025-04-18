@@ -1,6 +1,6 @@
 # description
 the source code for the open-source game:
-![potato game starring potatey](logo.png)
+![potato game starring potatey](/logo.png)
 
 # how to edit the game!
 [get gamemaker here](https://gamemaker.io), then run the yyp file and edit around do what ya want (needs gamemaker knowledge tho)
