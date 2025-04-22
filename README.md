@@ -1,6 +1,6 @@
 # repo description
 this is the source code for the open-source game:
-![potato game starring potatey](/logo.png)
+![potato game starring potatey](https://github.com/kokostudios/img/blob/main/pgsp/logo.png)
 
 ## what is potato game starring potatey/pgsp
 potato game starring potatey is a game where you play as potatey, who is tasked with collecting as many coins as he can without touching the dangers. its basically just snake without the growing mechanic
