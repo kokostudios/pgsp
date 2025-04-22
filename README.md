@@ -1,8 +1,11 @@
-# description
-the source code for the open-source game:
+# repo description
+this is the source code for the open-source game:
 ![potato game starring potatey](/logo.png)
 
-# how to edit the game!
+## what is potato game starring potatey/pgsp
+potato game starring potatey is a game where you play as potatey, who is tasked with collecting as many coins as he can without touching the dangers. its basically just snake without the growing mechanic
+
+## how to edit the game!
 [get gamemaker here](https://gamemaker.io), then run the yyp file and edit around do what ya want (needs gamemaker knowledge tho)
 
 before you start editing the games contents and stuff, you should: 
